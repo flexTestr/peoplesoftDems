@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "TaskCode": "FUN_MANAGE_BUSINESS_UNIT",
+      "ExportCriteria": [
+        {
+          "BusinessObjectCode": "FUN_BUSINESS_UNIT",
+          "AttributeName": "Name",
+          "AttributeValue": "Acquisition Business Unit"
+        }
+      ]
+    }
+  ]
+}
